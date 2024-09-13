@@ -1,0 +1,4 @@
+Question: s
+Answer: Good question, I suppose the answer is S, suggested by embeddings.
+Question: w
+Answer: Take the embeddings as reference, I support W. is the answer you want.
