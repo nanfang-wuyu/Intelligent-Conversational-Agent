@@ -34,9 +34,11 @@ The conversational agent is tested on the following types of questions:
 5. **Crowdsourcing Questions** – The crowdsourcing dataset is used for these answers.
 
 ## Project Structure
-/Information                - Contains the detailed project description.
-/Learning Materials         - Some learning materials which are useful for the agent development. 
-/datasets                   - Ignored in github, may be uploaded in future. 
-/main.ipynb                 - Main notebook implementing the chatbot.
-/*.ipynb                    - Python scripts for cleaning, handling, and organizing data.
-README.md                   - This file.
+
+- `/Information/` - Contains the detailed project description.
+- `/Learning Materials/` - Some learning materials useful for agent development.
+- `/datasets/` - Ignored in GitHub, may be uploaded in the future.
+- `main.ipynb` - Main notebook implementing the chatbot.
+- `*.ipynb` - Python scripts for cleaning, handling, and organizing data.
+- `README.md` - This file.
+
